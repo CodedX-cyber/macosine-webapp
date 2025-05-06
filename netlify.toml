@@ -1,6 +1,7 @@
 [build]
-  base = "Macosine - Factory & Industrial HTML"
+  base = "."
   publish = "."
+  command = ""
 
 [[redirects]]
   from = "/*"
