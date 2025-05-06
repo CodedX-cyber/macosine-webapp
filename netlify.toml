@@ -1,5 +1,5 @@
 [build]
-  base = "main-file"
+  base = "Macosine - Factory & Industrial HTML"
   publish = "."
 
 [[redirects]]
