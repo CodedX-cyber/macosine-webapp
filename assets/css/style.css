@@ -1562,6 +1562,10 @@ body.compensate-for-scrollbar {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
+    display: -ms-flexbox;
+    -ms-box-orient: vertical;
+    -ms-line-clamp: 2;
+    line-clamp: 2;
     max-height: 50px;
     overflow: hidden;
     margin-bottom: 24px;
@@ -2361,6 +2365,10 @@ body.compensate-for-scrollbar {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
+    display: -ms-flexbox;
+    -ms-box-orient: vertical;
+    -ms-line-clamp: 2;
+    line-clamp: 2;
     max-height: 70px;
     overflow: hidden;
 }
@@ -2369,6 +2377,10 @@ body.compensate-for-scrollbar {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
+    display: -ms-flexbox;
+    -ms-box-orient: vertical;
+    -ms-line-clamp: 2;
+    line-clamp: 2;
     margin-bottom: 22px;
     max-height: 50px;
     overflow: hidden;
